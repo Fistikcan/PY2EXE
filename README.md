@@ -29,9 +29,7 @@ PY2EXE, Python ile yazdığınız projeleri **bağımsız Windows çalıştırı
 
 | Bileşen      | Açıklama                              |
 |--------------|---------------------------------------|
-| Python       | 3.11 veya üstü                        |
-| pywebview    | `pip install pywebview`               |
-| PyInstaller  | Uygulama tarafından otomatik yüklenir |
+| Windows      | 10 veya üstü                          |
 
 ---
 
