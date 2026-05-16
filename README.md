@@ -3,6 +3,9 @@
 **PyInstaller için geliştirilmiş modern ve kullanıcı dostu grafik arayüz.**  
 Komut satırına elveda deyin, Python betiklerinizi saniyeler içinde `.exe`’ye dönüştürün.
 
+![GUI](https://i.imgur.com/wOPkdQJ.png)
+![GUI](https://i.imgur.com/BlKbJkt.png)
+
 ---
 
 ## 🚀 PY2EXE Nedir?
